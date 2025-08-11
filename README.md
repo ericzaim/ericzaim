@@ -15,9 +15,6 @@ Oi! Eu sou Eric, gosto por animes, jogos, esportes, e tecnologia.<br><br>-🎓Cu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ericzaim&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ericzaim&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ericzaim&icon=6&color=3)](https://visitcount.itsvg.in)
 

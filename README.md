@@ -1,5 +1,5 @@
 # 💫 About Me:
-Oi! Eu sou Eric, gosto por animes, jogos, esportes, e tecnologia.<br><br>-🎓Curso ADS🎓, ainda estou experimetando diferentes linguagens e tecnolgias.<br>-👾Aqui posto alguns dos meus projetos pessoais, da faculdade, e de cursos extras que faço.<br>-💻Trabalho hoje desenvolvevendo algumas aplicações web mais específicamente da parte do front-end mas tenho interesse em experimentar outras áreas.<br>-😎Se quiser me conhecer melhor esses são os links para minhas redes sociais:
+Oi! Eu sou Eric<br><br>-🎓Curso ADS🎓, ainda estou experimetando diferentes linguagens e tecnolgias.<br>-👾Aqui posto alguns dos meus projetos pessoais, da faculdade, e de cursos extras que faço.<br>-💻Trabalho hoje desenvolvevendo algumas aplicações web mais específicamente da parte do front-end mas tenho interesse em experimentar outras áreas.<br>-😎Se quiser me conhecer melhor esses são os links para minhas redes sociais:
 
 
 ## 🌐 Socials:
